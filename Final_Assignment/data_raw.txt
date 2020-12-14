@@ -1,0 +1,20 @@
+Test Tower
+200
+50
+Pierce Shaw
+Test Tower 2
+500
+100
+Josh Ricker
+Test Tower 3
+300
+50
+Rondo Passi
+Test Tower 4
+800
+50
+Ben Hummer
+Test Tower 5
+400
+150
+Beth Jones
